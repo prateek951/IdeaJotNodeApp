@@ -1,7 +1,7 @@
 if (process.env.NODE_ENV === 'production') {
 
     module.exports = {
-        mongoURI : 'mongodb://prateek951:SATGURU@ds241737.mlab.com:41737/jot-prod'
+        mongoURI : 'mongodb://secret:secret@ds241737.mlab.com:41737/jot-prod'
     }
     
 }
